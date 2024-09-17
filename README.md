@@ -1,2 +1,2 @@
 # Python
-Projetos de Pyhton
+Famoso jogo da Cobrinha
